@@ -104,7 +104,7 @@ export default function Home() {
           </CardContent>
         </Card>
         {content && (
-          <Card className="max-w-[720px] ">
+          <Card className="max-w-[720px] max-h-[720px]">
             <CardHeader>
               <CardTitle>邮件内容</CardTitle>
             </CardHeader>
